@@ -1,5 +1,10 @@
 # ⚡ CPU & GPU Hardware Performance & Stress Testing Suite
 
+[![Live Demo](https://img.shields.io/badge/Live_Report-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://anurag2005930.github.io/cpu-gpu-benchmark/)
+[![GitHub](https://img.shields.io/badge/Repository-cpu--gpu--benchmark-blue?style=for-the-badge&logo=github)](https://github.com/anurag2005930/cpu-gpu-benchmark)
+
+**Live Web Report:** [https://anurag2005930.github.io/cpu-gpu-benchmark/](https://anurag2005930.github.io/cpu-gpu-benchmark/)
+
 A high-performance hardware testing, benchmarking, and sustained thermal stress testing tool for CPUs and GPUs on Windows. Built with direct **Native CUDA Driver API** integration and **NVIDIA NVML** hardware telemetry for sub-millisecond readings with zero external SDK overhead.
 
 ---
